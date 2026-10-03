@@ -1,0 +1,6 @@
+{
+  "name": "CrossSync — RL-Based Cross-Sell Recommendation Platform",
+  "description": "Enterprise RL-based cross-sell recommendation system for sales teams, capturing business context, intelligent product matching, and recommendation experience learning loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
